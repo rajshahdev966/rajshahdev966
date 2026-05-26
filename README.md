@@ -1,13 +1,13 @@
-# 👋 Hello World, I'm Raj Shah!
+# Hello World, I'm Raj Shah!
 
 I am an entrepreneurial Engineer merging full-stack software devlopment with scalable AI systems. Currently, I am a B.Tech Computer Science student at Nirma University, engineering advanced web systems and core backend.
-- 💼 **Founder & Lead Engineer:** I am ex-founder of Neurolearn Media. So, I had got expereice in marketting, AI SaaS Devlopment, Freelancing, Data Analysis and Managment.
-- 🚀 **Shipped:** 5+ functional AI Micro-SaaS applications including CuraBot, Promptify, and X Dominator.
-- 🛠️ **Current Focus:** Deep-diving into Data Structures & Algorithms (Java), Dev-Ops, Web Devlopment and AI/ML systems.
+- **Founder & Lead Engineer:** I am ex-founder of Neurolearn Media. So, I had got expereice in marketting, AI SaaS Devlopment, Freelancing, Data Analysis and Managment.
+- **Shipped:** 5+ functional AI Micro-SaaS applications including CuraBot, Promptify, and X Dominator.
+- **Current Focus:** Deep-diving into Data Structures & Algorithms (Java), Dev-Ops, Web Devlopment and AI/ML systems.
 
 ---
 
-### 🧠 My Core Ecosystem
+### My Core Ecosystem
 
 - **Frontend & UI/UX:** Next.js, React.js, Tailwind CSS, JavaScript (ES6+), HTML5/CSS3 
 - **Languages & Backend Logic:** Java, Node.js, Express.js, SQL
@@ -16,14 +16,14 @@ I am an entrepreneurial Engineer merging full-stack software devlopment with sca
 
 ---
 
-### 📊 Currently Building & Learning
+### Currently Building & Learning
 - 📖 Mastering core Computer Science foundations, and advanced Object-Oriented Programming (OOP).
 - 🎨 Engineering fluid 3D and funtional landing pages and custom interactive Web Applications.
 - ⚡ Open for high-ticket freelance software development contracts and deep-tech engineering internships.
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 - **LinkedIn:** www.linkedin.com/in/rajshahdev966
 - **X (formerly Twitter):** x.com/rajshahdev966
 - **Instagram:** www.instagram.com/rajshahdev966
