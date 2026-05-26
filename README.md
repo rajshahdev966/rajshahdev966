@@ -17,9 +17,9 @@ I am an entrepreneurial Engineer merging full-stack software devlopment with sca
 ---
 
 ### Currently Building & Learning
-- 📖 Mastering core Computer Science foundations, and advanced Object-Oriented Programming (OOP).
-- 🎨 Engineering fluid 3D and funtional landing pages and custom interactive Web Applications.
-- ⚡ Open for high-ticket freelance software development contracts and deep-tech engineering internships.
+- Mastering core Computer Science foundations, and advanced Object-Oriented Programming (OOP).
+- Engineering fluid 3D and funtional landing pages and custom interactive Web Applications.
+- Open for high-ticket freelance software development contracts and deep-tech engineering internships.
 
 ---
 
