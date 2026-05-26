@@ -25,7 +25,7 @@ I am an entrepreneurial Engineer merging full-stack software devlopment with sca
 
 ### Connect with Me
 - **LinkedIn:** www.linkedin.com/in/rajshahdev966
-- **X (formerly Twitter):** x.com/rajshahdev966
+- **X (formerly Twitter):** www.x.com/rajshahdev966
 - **Instagram:** www.instagram.com/rajshahdev966
 - **Email:** rajshahdev966@gmail.com
 - **Alternate Email:** neurolearnmedia@gmail.com
