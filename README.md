@@ -10,15 +10,15 @@ I am an entrepreneurial Engineer merging full-stack software devlopment with sca
 ### My Core Ecosystem
 
 - **Frontend & UI/UX:** Next.js, React.js, Tailwind CSS, JavaScript (ES6+), HTML5/CSS3 
-- **Languages & Backend Logic:** Java, Node.js, Express.js, SQL
+- **Languages & Backend:** Java, Node.js, Express.js, SQL
 - **Specialized Domains:** Generative AI Workflows, Prompt Engineering, Data Analytics (Power BI)
 - **Developer Workflows:** Git, GitHub, DevOps, REST APIs
 
 ---
 
 ### Currently Building & Learning
-- Mastering core Computer Science foundations, and advanced Object-Oriented Programming (OOP).
-- Engineering fluid 3D and funtional landing pages and custom interactive Web Applications.
+- Learning core Computer Science foundations, and advanced Programming.
+- Creating fluid and funtional landing pages and custom interactive Web Applications.
 - Open for high-ticket freelance software development contracts and deep-tech engineering internships.
 
 ---
