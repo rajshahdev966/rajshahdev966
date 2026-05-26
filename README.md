@@ -30,4 +30,4 @@ I am an entrepreneurial Engineer merging full-stack software devlopment with sca
 - **Email:** rajshahdev966@gmail.com
 - **Alternate Email:** neurolearnmedia@gmail.com
 
-*“Treating code not just as syntax, but as a tool to solve tangible user and business problems.”*
+*“Treating code not just as syntax, but as a tool to solve real-problems of users and business.”*
